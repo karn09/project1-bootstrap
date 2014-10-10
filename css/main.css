@@ -1,8 +1,11 @@
 /*  * {
-	border: 1px solid red !important;
-} */
-
-/*
+      border: 1px solid red !important;
+  }*/
+/*  #banner {
+      width: 100%;
+      height: auto;
+  }*/
+  /*
 * {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
@@ -10,10 +13,7 @@
     box-sizing: border-box;
     font-family: lato;
 }
-img {
-    max-width: 100%;
-    height: auto;
-}
+
 .grid {
     margin: 0 auto;
     max-width: 1200px;
@@ -160,15 +160,14 @@ img {
 Set colors for all text in page
 
 */
-
-h1,
-h2 {
-    color: #BCBBBB;
-}
-h3,
-a:link {
-    color: #747704;
-}
-a:visited {
-    color: #BCBBBB;
-}
+  h1,
+  h2 {
+      color: #BCBBBB;
+  }
+  h3,
+  a:link {
+      color: #747704;
+  }
+  a:visited {
+      color: #BCBBBB;
+  }
