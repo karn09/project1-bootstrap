@@ -2,6 +2,7 @@
 	border: 1px solid red !important;
 } */
 
+/*
 * {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
@@ -140,10 +141,10 @@ img {
     border-top: 4px solid;
     border-color: #BCBBBB;
 }
-/* #main-content  {
+ #main-content  {
 	padding: 0px;
 
-} */
+}
 
 #main-content #app h3 {
     font-size: 30px;
@@ -155,9 +156,10 @@ img {
     margin-top: 5px;
     text-align: center;
 }
-/*
+
 Set colors for all text in page
- */
+
+*/
 
 h1,
 h2 {
